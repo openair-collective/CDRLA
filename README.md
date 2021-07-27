@@ -1,0 +1,2 @@
+# advocacy-CDRLA
+The Carbon Dioxide Removal Leadership Act (CDRLA) is a legislative proposal for New York State that leverages the power of public procurement to activate high-impact carbon removal projects.  The CDRLA will enable the state to reach our 2050 net-zero emissions targets, and elevate New York as a global leader in the emerging CDR and “carbontech” sectors, yielding both climate security and significant economic, ecosystem, and community benefits.  
