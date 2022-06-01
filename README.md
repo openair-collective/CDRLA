@@ -1,4 +1,4 @@
-# advocacy-CDRLA
+#CDRLA
 The Carbon Dioxide Removal Leadership Act (CDRLA) is a legislative proposal developed by OpenAir members for New York State that leverages the power of public procurement to activate high-impact carbon removal projects.  As law the CDRLA will enable the state to reach our 2050 net-zero emissions targets, and elevate New York as a global leader in the emerging CDR and “carbontech” sectors, forwarding both climate security and significant economic, ecosystem, and community benefits.  
 
 A version of the CDRLA was introduced in the 2022 legislative session in both the New York State Assembly (A08597-Fahy) and State Senate (S08171-Hinchey). The main bill version published here on GitHub represents a modified version of the introduced bill that the Collective aims to reintroduce for the 2023 session. This core policy elements of the legislation can be modified for other state policy contexts, and introduced as legislation in multiple other states, both in the United States and beyond. 
